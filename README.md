@@ -7,9 +7,9 @@ ___
 1. Mathematics for Machine Learning - Linear Algebra <br>
    [View Certificate](https://www.coursera.org/account/accomplishments/certificate/75TA3G4G29LU)
 
-2. Mathematics for Machine Learning - Multivariate Calculus
+2. Mathematics for Machine Learning - Multivariate Calculus <br>
    (working)
-4. Mathematics for Machine Learning - Principal Component Analysis (PCA)
+4. Mathematics for Machine Learning - Principal Component Analysis (PCA) <br>
    (upcoming)
 
 ___
