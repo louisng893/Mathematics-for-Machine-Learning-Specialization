@@ -4,7 +4,7 @@ This repository contains certificates from Mathematics for Machine Learning Spec
 
 # Completed Course
 ___
-1. Mathematics for Machine Learning - Linear Algebra
+1. Mathematics for Machine Learning - Linear Algebra <br>
    [View Certificate](https://www.coursera.org/account/accomplishments/certificate/75TA3G4G29LU)
 
 2. Mathematics for Machine Learning - Multivariate Calculus
