@@ -140,7 +140,7 @@ def histogram(f, p):
 
     ax.text(132, 0.074, "$\chi^2$ = " + str(SSR), fontsize=14, color=white)
     
-    fig.show()
+    plt.show()
 
 def contour(f, p) :
     binCentre, hist = heights_data()
@@ -171,6 +171,8 @@ def contour(f, p) :
     ax.plot(p.T[0], p.T[1], 'o-', linewidth=2, color=magenta)
     ax.plot([p.T[0,-1]], [p.T[1,-1]], 'o-', linewidth=2, color=orange, markersize=8)
 
-    fig.show()
-    
-histogram(lambda x,mu,sig : np.exp(-(x-mu)**2/(2*sig**2)) / np.sqrt(2*np.pi) / sig, [160, 15])
+    plt.show()
+
+if __name__ != "__main__":
+    histogram(lambda x,mu,sig : np.exp(-(x-mu)**2/(2*sig**2)) / np.sqrt(2*np.pi) / sig, [160, 15])
+    plt.show()
