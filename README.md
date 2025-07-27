@@ -9,8 +9,9 @@ ___
    [View Certificate](https://www.coursera.org/account/accomplishments/certificate/75TA3G4G29LU)
 
 2. Mathematics for Machine Learning - Multivariate Calculus <br>
-   (working)
-4. Mathematics for Machine Learning - Principal Component Analysis (PCA) <br>
+   [View Certificate](https://www.coursera.org/account/accomplishments/verify/01I7919MD54X)
+   
+3. Mathematics for Machine Learning - Principal Component Analysis (PCA) <br>
    (upcoming)
 
 ___
